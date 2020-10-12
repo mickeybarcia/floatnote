@@ -1,0 +1,14 @@
+//
+//  Release.xcconfig
+//  floatnote
+//
+//  Created by Michaela Barcia on 4/10/20.
+//  Copyright © 2020 cascade.ai. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+CONFIGURATION = Release
+
+FLOATIE_SERVER_URL = https:/$()/float-note-server.herokuapp.com
