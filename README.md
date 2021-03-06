@@ -1,7 +1,12 @@
 #  float note
 ### an AI dashboard for your digital and handwritten journal all in one place
-<img src="./Screenshots/login.png" width=200><img src="./Screenshots/dash1.png" width=200><img src="./Screenshots/dash2.png" width=200>
-<img src="./Screenshots/journal.png" width=200><img src="./Screenshots/entry3.png" width=200><img src="./Screenshots/entry1.png" width=200><img src="./Screenshots/entry2.png" width=200>
+<img src="./Screenshots/login.png" width=200>
+<img src="./Screenshots/dash1.png" width=200>
+<img src="./Screenshots/dash2.png" width=200>
+<img src="./Screenshots/journal.png" width=200>
+<img src="./Screenshots/entry3.png" width=200>
+<img src="./Screenshots/entry1.png" width=200>
+<img src="./Screenshots/entry2.png" width=200>
 
 ## about 
 <p> Democratize mental healthcare. Get a 360 view of how you are doing - just by writing in your journal as you usually do. You can add entries by typing or by taking a pictures of handwritten entries. The image is converted to text and all of the entries get analyzed using NLP/AI. Then they are presented in a visual dashboard. For example "sentiment", a measure of postivity verses negativity, is displayed over time in the line graph. The top key words from you journal are also extracted and displayed in the bar graph. etc. </p>
