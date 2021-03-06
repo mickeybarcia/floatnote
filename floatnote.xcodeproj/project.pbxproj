@@ -141,6 +141,7 @@
 		9451B7F924291A4000D9C43B /* FloatieBarChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatieBarChart.swift; sourceTree = "<group>"; };
 		9451B7FB24291C2E00D9C43B /* FloatieLineChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatieLineChart.swift; sourceTree = "<group>"; };
 		9451B7FD24291C6600D9C43B /* FloatieStatChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatieStatChart.swift; sourceTree = "<group>"; };
+		945EC51D25353D7500558B6B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		945EEED724210D4600FDA070 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		945EEEDB24217BA500FDA070 /* FloatieSecureFormField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatieSecureFormField.swift; sourceTree = "<group>"; };
 		945EEEDD24217DBC00FDA070 /* FloatieServiceRequestAdaptor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatieServiceRequestAdaptor.swift; sourceTree = "<group>"; };
@@ -246,6 +247,8 @@
 		9435F7F9240C31CE00C3FB4A = {
 			isa = PBXGroup;
 			children = (
+				94F9EFCE25F4190600AA5BFF /* Screenshots */,
+				945EC51D25353D7500558B6B /* README.md */,
 				9435F804240C31CE00C3FB4A /* floatnote */,
 				9435F829240C31D300C3FB4A /* floatnoteUITests */,
 				9435F803240C31CE00C3FB4A /* Products */,
@@ -471,6 +474,13 @@
 			path = FloatieText;
 			sourceTree = "<group>";
 		};
+		94F9EFCE25F4190600AA5BFF /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 		9514E0D62F3A65CCB63139B7 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -553,7 +563,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
-				LastUpgradeCheck = 1130;
+				LastUpgradeCheck = 1200;
 				ORGANIZATIONNAME = cascade.ai;
 				TargetAttributes = {
 					9435F801240C31CE00C3FB4A = {

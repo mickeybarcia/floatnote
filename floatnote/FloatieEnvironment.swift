@@ -10,6 +10,7 @@ import Foundation
 
 /// Config file for environment keys
 public enum FloatieEnvironment {
+    
     // MARK: - Keys
     enum Keys {
         enum Plist {
@@ -24,7 +25,7 @@ public enum FloatieEnvironment {
             fatalError("Plist file not found")
         }
         return dict
-    }()
+    } ()
 
     // MARK: - Plist values
     static let FLOATIE_SERVER_URL: String = {
@@ -32,12 +33,12 @@ public enum FloatieEnvironment {
             fatalError("Root URL not set in plist for this environment")
         }
         return FLOATIE_SERVER_URL
-    }()
+    } ()
     
     static let CONFIGURATION: String = {
         guard let CONFIGURATION = FloatieEnvironment.infoDictionary[Keys.Plist.CONFIGURATION] as? String else {
-            fatalError("Root URL not set in plist for this environment")
+            fatalError("Configuration not set in plist for this environment")
         }
         return CONFIGURATION
-    }()
+    } ()
 }

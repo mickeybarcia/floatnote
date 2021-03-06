@@ -72,5 +72,3 @@ final class FloatieServiceRequestAdaptor: Alamofire.RequestInterceptor {
     }
 
 }
-
-// reference: 
