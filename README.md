@@ -9,8 +9,7 @@
 <img src="./Screenshots/entry2.png" width=200>
 
 ## about 
-<p> Democratize mental healthcare. Get a 360 view of how you are doing - just by writing in your journal as you usually do. You can add entries by typing or by taking a pictures of handwritten entries. The image is converted to text and all of the entries get analyzed using NLP/AI. Then they are presented in a visual dashboard. For example "sentiment", a measure of postivity verses negativity, is displayed over time in the line graph. The top key words from you journal are also extracted and displayed in the bar graph. etc. </p>
-<p> I made this app because I wanted to make something that would help my friends manage their stress and mental health. I also wanted to learn how to make a mobile app and how to build and deploy an app from the ground up. </p>
+<p> Get a 360 view of how you are doing - just by writing in your journal as you usually do. You can add entries by typing or by taking a pictures of handwritten entries. The image is converted to text and all of the entries get analyzed using NLP/AI. Then they are presented in a visual dashboard. For example "sentiment", a measure of postivity verses negativity, is displayed over time in the line graph. The top key words from you journal are also extracted and displayed in the bar graph. etc. </p>
 The back ends: 
 - https://github.com/mickeybarcia/float_note_ml_api
 - https://github.com/mickeybarcia/float-note-server
